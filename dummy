@@ -1,0 +1,5 @@
+Django: Django, a high-level Python Web framework, has a very disciplined approach to commit messages. They are very clear about what the commit does. Django's repository can be accessed here: https://github.com/django/djangoLinks to an external site.
+
+AngularJS: The AngularJS team follows a set of conventions for commit messages that make them very structured and easy to read. They even published these conventions as the Angular Commit Message Guidelines: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelinesLinks to an external site.. You can access the Angular repository here: https://github.com/angular/angularLinks to an external site.
+
+Git itself: Naturally, the Git project serves as a good example of clean, useful commit messages. You can see how the Git maintainers write their commit messages at the Git repository: https://github.com/git/git
